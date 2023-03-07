@@ -34,5 +34,5 @@ public class Butaca {
 		return "Butaca " + numero + "[estado=" + devolver + "]";
 	}
 	
-	
+	//Crear seter para indicar si esta bloqueada
 }

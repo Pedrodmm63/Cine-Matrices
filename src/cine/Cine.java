@@ -8,7 +8,7 @@ public class Cine {
 
 		int filas = 5;
 		int columnas = 5;
-		int total = filas*columnas;
+		int contador1 = 3;
 		Butaca[][] cine = new Butaca[filas][columnas];
 		
 		int contador = 1;
