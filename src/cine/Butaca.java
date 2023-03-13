@@ -1,4 +1,4 @@
-package cine;
+ package cine;
 
 public class Butaca {
 
